@@ -1,0 +1,188 @@
+[
+  {"title":"Blinding Lights","artist":"The Weeknd","genre":"Synth-pop","lyrics":"I'm blinded by the lights...","tags":"pop,80s,fast"},
+  {"title":"Starboy","artist":"The Weeknd","genre":"Pop","lyrics":"I'm tryna put you in the worst mood...","tags":"dark,pop"},
+  {"title":"Save Your Tears","artist":"The Weeknd","genre":"Pop","lyrics":"Save your tears for another day","tags":"sad,pop"},
+  {"title":"Shape of You","artist":"Ed Sheeran","genre":"Pop","lyrics":"I'm in love with the shape of you...","tags":"dance,party,pop"},
+  {"title":"Perfect","artist":"Ed Sheeran","genre":"Romantic","lyrics":"I found a love for me...","tags":"love,romantic"},
+  {"title":"Photograph","artist":"Ed Sheeran","genre":"Soft","lyrics":"We keep this love in a photograph","tags":"calm,romantic"},
+  {"title":"Believer","artist":"Imagine Dragons","genre":"Rock","lyrics":"You made me a believer...","tags":"energetic,rock"},
+  {"title":"Thunder","artist":"Imagine Dragons","genre":"Rock","lyrics":"Thunder, feel the thunder","tags":"energetic,rock"},
+  {"title":"Demons","artist":"Imagine Dragons","genre":"Rock","lyrics":"It's where my demons hide","tags":"dark,rock"},
+  {"title":"Faded","artist":"Alan Walker","genre":"EDM","lyrics":"You were the shadow to my light","tags":"edm,melodic"},
+  {"title":"Alone","artist":"Alan Walker","genre":"EDM","lyrics":"Lost in your mind...","tags":"sad,edm"},
+  {"title":"On My Way","artist":"Alan Walker","genre":"EDM","lyrics":"I'm sorry but...","tags":"party,edm"},
+  {"title":"Butter","artist":"BTS","genre":"K-pop","lyrics":"Smooth like butter","tags":"kpop,party"},
+  {"title":"Dynamite","artist":"BTS","genre":"K-pop","lyrics":"I'm in the stars tonight","tags":"happy,kpop"},
+  {"title":"Life Goes On","artist":"BTS","genre":"K-pop","lyrics":"Life goes on like an echo","tags":"calm,kpop"},
+  {"title":"Kesariya","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Kesariya tera ishq hai piya","tags":"romantic,hindi"},
+  {"title":"Apna Bana Le","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Tu mera koi na hoke bhi kuch lage","tags":"love,hindi"},
+  {"title":"Tum Hi Ho","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Hum tere bin ab reh nahi sakte","tags":"sad,romantic"},
+  {"title":"Raabta","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Kehte hain khuda ne","tags":"romantic"},
+  {"title":"Kabira","artist":"Tochi Raina","genre":"Bollywood","lyrics":"Kabira maan ja","tags":"soulful"},
+  {"title":"Naatu Naatu","artist":"Kala Bhairava","genre":"Indian Film","lyrics":"Naatu Naatu Naatu...","tags":"energetic"},
+  {"title":"Arabic Kuthu","artist":"Anirudh","genre":"Tamil","lyrics":"Halamithi Habibo","tags":"party"},
+  {"title":"Why This Kolaveri Di","artist":"Dhanush","genre":"Tamil","lyrics":"Why this kolaveri di","tags":"funny"},
+  {"title":"Srivalli","artist":"Sid Sriram","genre":"Telugu","lyrics":"Nee paruvam","tags":"romantic"},
+  {"title":"Samajavaragamana","artist":"Sid Sriram","genre":"Telugu","lyrics":"O beautiful girl","tags":"romantic"},
+  {"title":"Inkem Inkem","artist":"Sid Sriram","genre":"Telugu","lyrics":"Lokaanni chusi","tags":"love"},
+  {"title":"Bones","artist":"Imagine Dragons","genre":"Rock","lyrics":"Gimme some time","tags":"energetic"},
+  {"title":"Heat Waves","artist":"Glass Animals","genre":"Indie","lyrics":"Sometimes all I think about is you","tags":"sad,indie"},
+  {"title":"Let Her Go","artist":"Passenger","genre":"Soft","lyrics":"Only know you love her when you let her go","tags":"sad,acoustic"},
+  {"title":"Night Changes","artist":"One Direction","genre":"Pop","lyrics":"Everything that you've ever dreamed of","tags":"soft,pop"},
+  {"title":"Story of My Life","artist":"One Direction","genre":"Pop","lyrics":"Written in these walls","tags":"emotional"},
+  {"title":"Channa Mereya","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Accha chalta hoon","tags":"sad,hindi"},
+  {"title":"Agar Tum Saath Ho","artist":"Alka Yagnik","genre":"Bollywood","lyrics":"Pal bhar thahar jao","tags":"sad"},
+  {"title":"Despacito","artist":"Luis Fonsi","genre":"Latin","lyrics":"Despacito...","tags":"dance,latin"},
+  {"title":"See You Again","artist":"Wiz Khalifa","genre":"Hip-hop","lyrics":"It's been a long day","tags":"emotional"},
+  {"title":"Attention","artist":"Charlie Puth","genre":"Pop","lyrics":"You just want attention","tags":"pop"},
+  {"title":"We Don't Talk Anymore","artist":"Charlie Puth","genre":"Pop","lyrics":"We don't talk anymore","tags":"sad,pop"},
+  {"title":"Namo Namo","artist":"Amit Trivedi","genre":"Devotional","lyrics":"Har Har Mahadev","tags":"spiritual"},
+  {"title":"Kun Faya Kun","artist":"A.R. Rahman","genre":"Sufi","lyrics":"Kun faya kun","tags":"calm,spiritual"},
+  {"title":"Hall of Fame","artist":"The Script","genre":"Pop","lyrics":"You can be the greatest","tags":"motivational"},
+  {"title":"Counting Stars","artist":"OneRepublic","genre":"Pop","lyrics":"Lately I been losing sleep","tags":"pop"},
+  {"title":"Apologize","artist":"OneRepublic","genre":"Pop","lyrics":"It's too late to apologize","tags":"sad"},
+  {"title":"Levitating","artist":"Dua Lipa","genre":"Pop","lyrics":"You want me, I want you baby","tags":"dance"},
+  {"title":"Don't Start Now","artist":"Dua Lipa","genre":"Pop","lyrics":"Did a full 180","tags":"party"},
+  {"title":"Uptown Funk","artist":"Bruno Mars","genre":"Funk","lyrics":"Don't believe me just watch","tags":"party"},
+  {"title":"24K Magic","artist":"Bruno Mars","genre":"Funk","lyrics":"Players put yo' pinky rings up","tags":"party"},
+
+  {"title":"Happier","artist":"Marshmello","genre":"EDM","lyrics":"Lately I've been thinking...","tags":"sad,edm"},
+  {"title":"Silence","artist":"Marshmello","genre":"EDM","lyrics":"I'd rather be a lover than a fighter","tags":"emotional"},
+  {"title":"Alone Pt.2","artist":"Alan Walker","genre":"EDM","lyrics":"We were young...","tags":"melodic"},
+
+  {"title":"Blank Space","artist":"Taylor Swift","genre":"Pop","lyrics":"Got a long list of ex-lovers","tags":"pop"},
+  {"title":"Love Story","artist":"Taylor Swift","genre":"Country-pop","lyrics":"It's a love story baby just say yes","tags":"romantic"},
+  {"title":"Wildest Dreams","artist":"Taylor Swift","genre":"Pop","lyrics":"Say you'll remember me","tags":"soft,pop"},
+
+  {"title":"Animals","artist":"Maroon 5","genre":"Pop","lyrics":"Baby I'm preying on you tonight","tags":"wild,pop"},
+  {"title":"Sugar","artist":"Maroon 5","genre":"Pop","lyrics":"Sugar, yes please","tags":"sweet,pop"},
+  {"title":"Memories","artist":"Maroon 5","genre":"Pop","lyrics":"Cheers to the ones we lost","tags":"emotional"},
+
+  {"title":"No Lie","artist":"Sean Paul","genre":"Hip-hop","lyrics":"Shake that thing","tags":"party"},
+  {"title":"Cheap Thrills","artist":"Sia","genre":"Pop","lyrics":"I don't need dollar bills","tags":"dance"},
+  {"title":"Unstoppable","artist":"Sia","genre":"Pop","lyrics":"I'm unstoppable","tags":"motivational"},
+
+  {"title":"Senorita","artist":"Camila Cabello","genre":"Latin Pop","lyrics":"I love it when you call me senorita","tags":"romantic"},
+  {"title":"Havana","artist":"Camila Cabello","genre":"Latin Pop","lyrics":"Half of my heart is in Havana","tags":"latin"},
+
+  {"title":"Peaches","artist":"Justin Bieber","genre":"R&B","lyrics":"I got my peaches out in Georgia","tags":"chill"},
+  {"title":"Stay","artist":"Justin Bieber","genre":"Pop","lyrics":"I do the same thing I told you that I never would","tags":"sad"},
+
+  {"title":"Industry Baby","artist":"Lil Nas X","genre":"Hip-hop","lyrics":"I told you long ago","tags":"energetic"},
+  {"title":"Montero","artist":"Lil Nas X","genre":"Pop","lyrics":"Call me when you want","tags":"bold"},
+
+  {"title":"Stressed Out","artist":"Twenty One Pilots","genre":"Indie","lyrics":"Wish we could turn back time","tags":"nostalgic"},
+  {"title":"Ride","artist":"Twenty One Pilots","genre":"Indie","lyrics":"I've been thinking too much","tags":"indie"},
+
+  {"title":"Hallucinate","artist":"Dua Lipa","genre":"Pop","lyrics":"Pocketful of sunshine","tags":"party"},
+  {"title":"Champion","artist":"Imagine Dragons","genre":"Rock","lyrics":"I'm a champion","tags":"motivational"},
+
+  {"title":"Afreen Afreen","artist":"Nusrat Fateh Ali Khan","genre":"Sufi","lyrics":"Afreen afreen","tags":"calm"},
+  {"title":"Tajdar-e-Haram","artist":"Coke Studio","genre":"Sufi","lyrics":"Tajdar-e-haram","tags":"devotional"},
+
+  {"title":"Tere Vaaste","artist":"Varun Jain","genre":"Bollywood","lyrics":"Tere vaaste falak se","tags":"romantic"},
+  {"title":"Jhoome Jo Pathaan","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Jhoome jo pathaan","tags":"party"},
+  {"title":"Kesariya Dance Mix","artist":"Lijo George","genre":"Bollywood","lyrics":"Kesariya tera ishq","tags":"dance"},
+
+  {"title":"Bole Chudiyan","artist":"K3G","genre":"Bollywood","lyrics":"Bole chudiyan bole kangna","tags":"wedding"},
+  {"title":"Tujhe Dekha To","artist":"Kumar Sanu","genre":"Bollywood","lyrics":"Tujhe dekha to yeh jaana sanam","tags":"romantic"},
+  {"title":"Kalank Title Track","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Kalank nahi ishq hai","tags":"emotional"},
+
+  {"title":"Soch Na Sake","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Haan hasi ban gaye","tags":"romantic"},
+  {"title":"Hawayein","artist":"Arijit Singh","genre":"Bollywood","lyrics":"Hawayein si chunariya","tags":"soft"},
+
+  {"title":"Daru Badnaam","artist":"Kamal Kahlon","genre":"Punjabi","lyrics":"Daru badnaam karti","tags":"party,punjabi"},
+  {"title":"Kya Baat Ay","artist":"Harrdy Sandhu","genre":"Punjabi","lyrics":"Kya baat ay","tags":"romantic,punjabi"},
+  {"title":"Bijlee Bijlee","artist":"Harrdy Sandhu","genre":"Punjabi","lyrics":"Bijlee bijlee bijlee","tags":"party,punjabi"},
+
+  {"title":"Jalebi Baby","artist":"Tesher","genre":"Pop","lyrics":"Baby let me see you jalebi baby","tags":"dance"},
+  {"title":"Vibe","artist":"Cookiee Kawaii","genre":"Viral","lyrics":"If I throw it back","tags":"dance"},
+
+  {"title":"Love Nwantiti","artist":"CKay","genre":"Afrobeats","lyrics":"My baby my valentine","tags":"romantic"},
+  {"title":"Calm Down","artist":"Rema","genre":"Afrobeats","lyrics":"Baby calm down","tags":"romantic,afro"},
+
+  {"title":"Lose Yourself","artist":"Eminem","genre":"Hip-hop","lyrics":"You better lose yourself","tags":"motivational"},
+  {"title":"Rap God","artist":"Eminem","genre":"Hip-hop","lyrics":"I'm beginning to feel like a rap god","tags":"fast"},
+  {"title":"Mockingbird","artist":"Eminem","genre":"Hip-hop","lyrics":"I'm sorry mama","tags":"emotional"},
+
+  {"title":"Numb","artist":"Linkin Park","genre":"Rock","lyrics":"I've become so numb","tags":"sad,rock"},
+  {"title":"In The End","artist":"Linkin Park","genre":"Rock","lyrics":"I tried so hard","tags":"emotional"},
+  {"title":"Castle of Glass","artist":"Linkin Park","genre":"Rock","lyrics":"Take me down to the river bend","tags":"soft,rock"},
+
+  {"title":"Smells Like Teen Spirit","artist":"Nirvana","genre":"Rock","lyrics":"Here we are now entertain us","tags":"grunge"},
+  {"title":"Come As You Are","artist":"Nirvana","genre":"Rock","lyrics":"Take your time hurry up","tags":"rock"},
+
+  {"title":"Hips Don't Lie","artist":"Shakira","genre":"Latin Pop","lyrics":"Oh baby when you talk like that","tags":"dance"},
+  {"title":"Waka Waka","artist":"Shakira","genre":"Pop","lyrics":"This time for Africa","tags":"energetic"},
+
+  {"title":"Blue Eyes","artist":"Yo Yo Honey Singh","genre":"Punjabi","lyrics":"Blue eyes hypnotize teri kardi","tags":"party,punjabi"},
+  {"title":"Brown Rang","artist":"Honey Singh","genre":"Punjabi","lyrics":"Brown rang ne maar daala","tags":"dance"},
+  {"title":"Angreji Beat","artist":"Honey Singh","genre":"Punjabi","lyrics":"Angreji beat te","tags":"club"},
+
+  {"title":"Belong To You","artist":"AP Dhillon","genre":"Punjabi","lyrics":"Girl I belong to you","tags":"romantic"},
+  {"title":"Excuses","artist":"AP Dhillon","genre":"Punjabi","lyrics":"Kiven dassan","tags":"sad,punjabi"},
+  {"title":"Insane","artist":"AP Dhillon","genre":"Punjabi","lyrics":"Ho insane","tags":"party"},
+
+  {"title":"Manike","artist":"Yohani","genre":"Sinhala","lyrics":"Manike mage hithe","tags":"romantic"},
+  {"title":"Malang Sajna","artist":"Sachet Parampara","genre":"Bollywood","lyrics":"Malang sajna","tags":"romantic"},
+
+  {"title":"Chogada","artist":"Darshan Raval","genre":"Garba","lyrics":"Chogada tara","tags":"dance,festival"},
+  {"title":"Kamariya","artist":"Darshan Raval","genre":"Bollywood","lyrics":"Kamariya laadle","tags":"dance"},
+
+  {"title":"Neele Neele Ambar Par","artist":"Kishore Kumar","genre":"Classic","lyrics":"Neele neele ambar par","tags":"evergreen"},
+  {"title":"Lag Ja Gale","artist":"Lata Mangeshkar","genre":"Classic","lyrics":"Lag ja gale","tags":"romantic"},
+
+  {"title":"Kannoram","artist":"Sid Sriram","genre":"Tamil","lyrics":"Kanave kanave","tags":"sad"},
+  {"title":"Thalli Pogathey","artist":"A.R. Rahman","genre":"Tamil","lyrics":"Thalli pogathey","tags":"romantic"},
+
+  {"title":"Neene Neene","artist":"Sonu Nigam","genre":"Kannada","lyrics":"Neene neene","tags":"love"},
+  {"title":"Anisuthide","artist":"Sonu Nigam","genre":"Kannada","lyrics":"Anisuthide yaako indu","tags":"romantic"},
+  {"title":"Belageddu","artist":"Vijay Prakash","genre":"Kannada","lyrics":"Belageddu yaara mukhava","tags":"folk"},
+
+  {"title":"Arere Vaanaa","artist":"G.V. Prakash","genre":"Telugu","lyrics":"Arere vaanaa","tags":"soft"},
+  {"title":"Em Sandeham Ledu","artist":"Karthik","genre":"Telugu","lyrics":"Em sandeham ledu","tags":"romantic"},
+  {"title":"Idhi Mana Adda","artist":"DSP","genre":"Telugu","lyrics":"Idhi mana adda","tags":"mass"},
+
+  {"title":"Yellow","artist":"Coldplay","genre":"Soft Rock","lyrics":"Look at the stars","tags":"calm"},
+  {"title":"Fix You","artist":"Coldplay","genre":"Soft Rock","lyrics":"Lights will guide you home","tags":"emotional"},
+  {"title":"Paradise","artist":"Coldplay","genre":"Pop","lyrics":"Para-para-paradise","tags":"uplifting"},
+  {"title":"Hymn For The Weekend","artist":"Coldplay","genre":"Pop","lyrics":"Oh angel sent from up above","tags":"party"},
+
+  {"title":"Sunflower","artist":"Post Malone","genre":"Pop","lyrics":"I know you're scared of the unknown","tags":"soft"},
+  {"title":"Circles","artist":"Post Malone","genre":"Pop","lyrics":"Seasons change and our love went cold","tags":"emotional"},
+  {"title":"Rockstar","artist":"Post Malone","genre":"Hip-hop","lyrics":"I've been poppin'","tags":"energetic"},
+
+  {"title":"God's Plan","artist":"Drake","genre":"Hip-hop","lyrics":"I only love my bed and my momma","tags":"rap"},
+  {"title":"Hotline Bling","artist":"Drake","genre":"Hip-hop","lyrics":"You used to call me on my cellphone","tags":"soft"},
+  {"title":"Laugh Now Cry Later","artist":"Drake","genre":"Hip-hop","lyrics":"Sometimes we laugh, sometimes we cry","tags":"emotional"},
+
+  {"title":"Bad Guy","artist":"Billie Eilish","genre":"Alternative","lyrics":"I'm the bad guy","tags":"dark"},
+  {"title":"Lovely","artist":"Billie Eilish","genre":"Indie","lyrics":"Isn't it lovely","tags":"sad"},
+  {"title":"Happier Than Ever","artist":"Billie Eilish","genre":"Alternative","lyrics":"When I'm away from you","tags":"emotional"},
+
+  {"title":"The Nights","artist":"Avicii","genre":"EDM","lyrics":"One day you'll leave this world behind","tags":"motivational"},
+  {"title":"Wake Me Up","artist":"Avicii","genre":"EDM","lyrics":"Feeling my way through the darkness","tags":"uplifting"},
+  {"title":"Waiting For Love","artist":"Avicii","genre":"EDM","lyrics":"Monday left me broken","tags":"hopeful"},
+
+  {"title":"Let Me Love You","artist":"DJ Snake","genre":"EDM","lyrics":"Don't you give up","tags":"romantic"},
+  {"title":"Taki Taki","artist":"DJ Snake","genre":"Latin EDM","lyrics":"Taki taki rumba","tags":"dance"},
+
+  {"title":"Stereo Hearts","artist":"Gym Class Heroes","genre":"Hip-hop","lyrics":"My heart's a stereo","tags":"romantic"},
+  {"title":"Locked Away","artist":"R. City","genre":"Pop","lyrics":"If I got locked away","tags":"soft"},
+
+  {"title":"I Lived","artist":"OneRepublic","genre":"Pop","lyrics":"I owned every second","tags":"motivational"},
+  {"title":"Take On Me","artist":"A-ha","genre":"80s Pop","lyrics":"Take on me","tags":"retro"},
+  {"title":"Careless Whisper","artist":"George Michael","genre":"Classic Pop","lyrics":"I'm never gonna dance again","tags":"sad"},
+
+  {"title":"Jai Ho","artist":"A.R. Rahman","genre":"Bollywood","lyrics":"Jai Ho","tags":"energetic"},
+  {"title":"Humma Humma","artist":"A.R. Rahman","genre":"Bollywood","lyrics":"Humma humma","tags":"party"},
+  {"title":"Nenjukkule","artist":"A.R. Rahman","genre":"Tamil","lyrics":"Nenjukkule","tags":"soft"},
+
+  {"title":"Kun Fayakun","artist":"A.R. Rahman","genre":"Sufi","lyrics":"Kun fayakun","tags":"spiritual"},
+
+  {"title":"Oo Antava","artist":"Indravathi Chauhan","genre":"Telugu","lyrics":"Oo antava oo oo antava","tags":"sensual"},
+  {"title":"Saami Saami","artist":"Mounika Yadav","genre":"Telugu","lyrics":"Saami saami","tags":"dance"},
+
+  {"title":"Varaha Roopam","artist":"Sai Vignesh","genre":"Kannada","lyrics":"Varaha roopam daiva varishtam","tags":"devotional"},
+  {"title":"Belakina Kavithe","artist":"Vijay Prakash","genre":"Kannada","lyrics":"Belakina kavithe","tags":"soft"}
+]
